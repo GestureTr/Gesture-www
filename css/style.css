@@ -300,6 +300,7 @@ footer {
   color: white;
 }
 footer h3 {
+  text-transform: capitalize;
   margin-bottom: 30px;
 }
 footer .footer-above {
